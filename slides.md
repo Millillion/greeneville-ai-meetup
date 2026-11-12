@@ -212,6 +212,32 @@ Agents: Claude Code (Anthropic), Codex (OpenAI), and others. Mention that you ap
 
 ---
 
+## My last year as a software engineer
+
+<div class="cols">
+<div>
+
+**A year ago**
+- I wrote most of my code by hand
+- AI suggested lines and answered questions
+
+</div>
+<div>
+
+**Today**
+- Agents write most of my code
+- I decide what to build and check the work
+- Several agents work at once
+
+</div>
+</div>
+
+<!--
+Tell the story in your own words: when it changed, what the turning point was, what a typical day looks like now, how much more you get done, and how it felt.
+-->
+
+---
+
 ## Live demo: Claude Code
 
 1. Make a **PDF** flyer for a local business

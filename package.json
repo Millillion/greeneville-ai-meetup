@@ -1,0 +1,14 @@
+{
+  "name": "greeneville-ai-meetup",
+  "private": true,
+  "license": "CC0-1.0",
+  "scripts": {
+    "build": "marp slides.md --html -o dist/index.html && cp -r images dist/",
+    "pdf": "marp slides.md --html --pdf --allow-local-files -o dist/slides.pdf",
+    "watch": "marp slides.md --html -w -o dist/index.html"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "4.5.1",
+    "qrcode": "1.5.4"
+  }
+}
